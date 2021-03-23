@@ -2,7 +2,7 @@ module.exports = {
     name: 'reactionrole',
     description: "Sets up a reaction role message!",
     async execute(message, args, Discord, client) {
-        const channel = '813508476814360646';
+        const channel = '824007131770126366';
         const OkumusRole = message.guild.roles.cache.find(role => role.name === "Okumus");
         const OkumusEmoji = '✅';
  
