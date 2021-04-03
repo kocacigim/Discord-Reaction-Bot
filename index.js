@@ -32,4 +32,4 @@ client.on('message', message => {
   
 });
  
-client.login('ODIzNjY4NjM1NDIzMjExNTcx.YFkLMQ.0dde5tsJyaCbDNki48AzwzMlp3Q');
+client.login('TOKENİ_BURAYA_YAPIŞTIR_AYBALIM');
